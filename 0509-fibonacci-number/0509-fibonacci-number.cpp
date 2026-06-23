@@ -1,8 +1,14 @@
 class Solution {
 public:
-    int fib(int n) {
+    int helper( int n, vector<int>& memo){
         if( n == 0 || n == 1) return n;
-        return fib(n-1)+fib(n-2);
+        if( memo[n] != -1) return memo[n];
+        memo[n]= helper(n-2, memo)+ helper(n-1, memo);
+        return memo[n];
+    }
+    int fib(int n) {
+       vector<int> memo(n+1,-1);
+       return helper(n, memo);
         
     }
 };
