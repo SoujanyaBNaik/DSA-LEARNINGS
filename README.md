@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
