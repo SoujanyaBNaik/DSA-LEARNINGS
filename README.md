@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
