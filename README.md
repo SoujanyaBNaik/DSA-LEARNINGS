@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
