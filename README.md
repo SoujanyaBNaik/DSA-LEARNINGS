@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SoujanyaBNaik/DSA-LEARNINGS/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
